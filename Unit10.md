@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: The Asian Tigers** <span id="10"></span> 
 *After WWII, Japan quickly rebounded. It was economically booming by the
 1960s, and was one of the richest countries in the world from the 1970s

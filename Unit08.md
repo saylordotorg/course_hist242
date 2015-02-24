@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Hot and Cold Wars** <span id="8"></span> 
 *The tensions in Northeast Asia and Japan’s intensifying expansionist
 ambitions led ultimately to the outbreak of war in 1937. While the

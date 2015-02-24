@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Japanese Colonial Rule in Taiwan and Korea** <span
 id="6"></span> 
 *Japan acquired its first colony, Taiwan, in 1895, and its second,

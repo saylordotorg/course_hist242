@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: China’s Re-emergence as a Global Power** <span
 id="13"></span> 
 *With the death of Mao Zedong, the hated ‘Gang of Four’ was arrested and

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Japan: Out of the Ashes** <span id="9"></span> 
 This unit studies the history of Japan from the end of WWII to the
 1990s. It explores the impact of the US occupation and the Cold War, and

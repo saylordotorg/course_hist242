@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../../../
+previous: ../Unit13
+---
 **Unit 14: Regional Problems and Prospects for the 21st Century** <span
 id="14"></span> 
 *In the preceding units, we have learned a great deal about the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Communism in Northeast Asia** <span id="11"></span> 
 *With the success of the Bolshevik Revolution in 1917, communism gained
 a rapid foothold in Northeast Asia. Social reformers were attracted by

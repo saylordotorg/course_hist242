@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST242: Modern Northeast Asia"
+course_description: "A study of the history of East Asia (China, Japan, Korea, and Vietnam) from the 19th century to the present. Analyzes the impact of European imperialism, Communism, and the creation of modern nation-states."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: Democratization in South Korea, Taiwan and Mongolia** <span
 id="12"></span> 
 *Despite (or perhaps because of) economic success in South Korea and
