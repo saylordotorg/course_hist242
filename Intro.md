@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "HIST242: Modern Northeast Asia"
 ----------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_hist242) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 Only 150 years ago, the empires and states of Northeast Asia—for many
 centuries far more developed than their contemporaries in most of Asia,
 and all of Europe, the Americas and Africa—found themselves powerless in
