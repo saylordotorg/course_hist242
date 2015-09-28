@@ -177,3 +177,4 @@ you do not pass it.
 - [Unit 12](https://legacy.saylor.org/hist242/Unit12/)
 - [Unit 13](https://legacy.saylor.org/hist242/Unit13/)
 - [Unit 14](https://legacy.saylor.org/hist242/Unit14/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST242/HIST242-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST242/HIST242-FinalExam-Answers.html)
